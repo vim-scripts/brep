@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3653
+
+Yet another buffer "grep". This plugin provides the following command:
+
+Brep[!] REGEXP
+    Scan buffers for REGEXP.
+    With the optional bang '!', scan unlisted buffers too.
+
